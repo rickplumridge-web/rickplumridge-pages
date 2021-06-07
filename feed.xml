@@ -135,15 +135,6 @@
   <content>In the Home</content>
  </entry>
  <entry>
-  <id>urn:iweb:4B33CB80-237A-42C5-81E5-A6987E79FE7D</id>
-  <title>Shop</title>
-  <title xmlns="urn:iweb:">Shop</title>
-  <in-navbar xmlns="urn:iweb:">4B33CB80-237A-42C5-81E5-A6987E79FE7D</in-navbar>
-  <link rel="alternate" href="shop/"/>
-  <updated>2014-10-29T11:50:18.015+11:00</updated>
-  <content>Shop</content>
- </entry>
- <entry>
   <id>urn:iweb:E23081B8-6352-440E-A314-0555CBF30FAE</id>
   <title>Bio</title>
   <title xmlns="urn:iweb:">Biography</title>
